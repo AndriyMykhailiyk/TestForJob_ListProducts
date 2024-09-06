@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "sass-embedded": "^1.78.0"
+  },
+  "dependencies": {
+    "num-sort": "^3.0.0"
+  }
+}

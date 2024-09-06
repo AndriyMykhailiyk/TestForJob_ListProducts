@@ -1,0 +1,31 @@
+
+.wrapper_about {
+  padding-bottom: 1vw;
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  width: 50%;
+  height: auto;
+  background-color: rgba(0, 0, 0, 1 );
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper_text {
+  padding-top: 2vw;
+  padding-left: 1vw;
+  text-align: left;
+}
+
+p {
+  margin: 0;
+}
+
+.span_header_text_about {
+  font-size: 16px;
+}
+
+.img_header_about {
+  width: 15vw;
+}
